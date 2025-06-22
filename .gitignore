@@ -1,0 +1,4 @@
+dataset/*
+exp/checkpoint/*
+exp/result/*
+fishenv/
